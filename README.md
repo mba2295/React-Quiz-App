@@ -1,2 +1,4 @@
 # React-Quiz-App
-BAsic Quiz app in react with authentication
+Basic Quiz app in react with authentication
+
+Created only using components and states.
